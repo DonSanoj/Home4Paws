@@ -1,2 +1,2 @@
-# E-Commerce
-E-Commerce platform
+# Pet Adoption Platform 
+Pet Adoption platform
